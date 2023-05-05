@@ -106,7 +106,7 @@ function showData() {
             <td>${datapro[i].price}</td>
             <td>${datapro[i].taxes}</td>
             <td>${datapro[i].ads}</td>
-            <td>${datapro[i].dscount}</td>
+            <td>${datapro[i].discount}</td>
             <td>${datapro[i].total}</td>
             <td>${datapro[i].category}</td>
             <td><button onclick='update(${i})' id="update">update</button></td>
